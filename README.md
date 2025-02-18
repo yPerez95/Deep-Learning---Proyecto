@@ -29,9 +29,13 @@ pip install -r ./requirements.txt
 
 ## Estructura de archivos
 content/GPTeam-DeepLearning/Dataset/        ->      Contiene los archivos a ser leidos
+
 saved_parameters/                           ->      Contiene los modelos y pesos de la red neuronal guardados, contiene los directorios Models y Parameters, ellos guardaran las arquitecturas del modelo y los pesos, correspondientemente.
+
 runs/                                       ->      Contiene los archivos generados por tensorbord para visualizar las ejecuciones
+
 results/                                    ->      Contiene los resultados generados por las ejecuciones de cada época
+
 
 
 ## Gráficos realizados
