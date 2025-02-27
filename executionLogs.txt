@@ -1,0 +1,10 @@
+2025-02-26 23:17:08,589 - Ejecucion de 3 epocas, learning rate: 0.0001 y batch size: 32. Archivo de ejecucion guardado en runs
+2025-02-26 23:17:22,315 - No path found after runs\events.out.tfevents.1740628953.DESKTOP-PPM1V3B.14864.0
+2025-02-26 23:18:52,800 - No path found after runs\events.out.tfevents.1740628953.DESKTOP-PPM1V3B.14864.0
+2025-02-26 23:52:00,894 - Ejecucion de 2 epocas, learning rate: 0.0001 y batch size: 32. Archivo de ejecucion guardado en runs
+2025-02-26 23:52:58,525 - Directory watcher advancing from runs\events.out.tfevents.1740631333.DESKTOP-PPM1V3B.14864.5 to runs\events.out.tfevents.1740631344.DESKTOP-PPM1V3B.14864.6
+2025-02-26 23:52:58,532 - No path found after runs\events.out.tfevents.1740631344.DESKTOP-PPM1V3B.14864.6
+2025-02-26 23:53:15,494 - Directory watcher advancing from runs\events.out.tfevents.1740631333.DESKTOP-PPM1V3B.14864.5 to runs\events.out.tfevents.1740631344.DESKTOP-PPM1V3B.14864.6
+2025-02-26 23:53:15,501 - No path found after runs\events.out.tfevents.1740631344.DESKTOP-PPM1V3B.14864.6
+2025-02-27 06:20:35,230 - Ejecucion de 120 epocas, learning rate: 0.0001 y batch size: 32. Archivo de ejecucion guardado en runs
+2025-02-27 08:30:46,375 - No path found after runs\events.out.tfevents.1740634236.DESKTOP-PPM1V3B.29900.0
